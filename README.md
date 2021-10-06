@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyandindu
 - 👀 I’m interested in Coding, Playing cricket and Tabletennis.
-- 🌱 I’m currently learning MERN stack.
+- 🌱 Working as a support analyst in an MNC and on my journey to become a full stack developer.
 -
 -
 <!---
