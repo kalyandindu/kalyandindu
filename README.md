@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyandindu
 - 👀 I’m interested in Coding, Playing cricket and Tabletennis.
-- 🌱 Working as a support analyst in an MNC and on my journey to become a full stack developer.
+- 🌱 Working as a frontend developer and on my journey to become a full stack developer.
 -
 -
 <!---
